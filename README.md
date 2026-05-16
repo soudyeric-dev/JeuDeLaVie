@@ -14,3 +14,5 @@ Une cellule morte possédant exactement trois cellules voisines vivantes devient
 Une cellule vivante ne possédant pas exactement deux ou trois cellules voisines vivantes meurt.
 
 cf. https://fr.wikipedia.org/wiki/Jeu_de_la_vie
+
+Pour jouer voir https://accromath.uqam.ca/2024/02/le-jeu-de-la-vie/
